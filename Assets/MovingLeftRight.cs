@@ -17,6 +17,7 @@ public class MovingLeftRight : MonoBehaviour
     void FixedUpdate()
     {
         //FOR TOUCH SCREENS
+        //SD
         if (Input.touchCount > 0) {
             Touch touch = Input.GetTouch(0);
             float middle = Screen.width / 2;

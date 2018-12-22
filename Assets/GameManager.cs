@@ -34,7 +34,8 @@ public class GameManager : MonoBehaviour {
         DontDestroyOnLoad(gameObject);
     }
     void Start () {
-      
+      //THIS IS DJ
+      //THIS IS DJDJDJDJJDJ
         lives.text = "Lives : 3";
         Debug.Log("Game Manager started....");
        // screenWidth.text = "ScreenWidth:" + Screen.width;
